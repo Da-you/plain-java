@@ -1,3 +1,5 @@
+package domain;
+
 public enum ElevatorStatus {
 	UP("UP"), DOWN("DOWN"), STOP("STOP");
 
